@@ -2,6 +2,11 @@
 A command-line programme that adds a blur, greyscale, reflection or sepia filter to an image.
 > Run the 'filter' executable from the command-line.
 ### Usage:
+#### Windows:
+```
+.\filter.exe [flag] infile outfile
+```
+#### MacOS (Unix):
 ```
 ./filter [flag] infile outfile
 ```

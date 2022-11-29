@@ -6,7 +6,7 @@ A command-line program that adds a blur, greyscale, reflection or sepia filter t
 ```
 make filter
 ```
-### Usage:
+### How to execute?
 #### Linux:
 ```
 ./filter [flag] infile outfile

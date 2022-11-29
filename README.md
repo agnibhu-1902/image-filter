@@ -1,5 +1,5 @@
 # image-filter
-A command-line programme that adds a blur, greyscale, reflection or sepia filter to an image.
+A command-line program that adds a blur, greyscale, reflection or sepia filter to an image.
 > Run the 'filter' executable from the command-line.
 ### Usage:
 ```

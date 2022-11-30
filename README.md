@@ -1,5 +1,5 @@
 # image-filter
-A command-line program that adds a blur, greyscale, reflection or sepia filter to an image.
+A command-line program that adds a blur, greyscale, reflection or sepia filter to a bitmap image.
 > Run the 'filter' executable from the command-line.
 ### How to compile?
 > Make sure 'clang' and 'make' are installed.

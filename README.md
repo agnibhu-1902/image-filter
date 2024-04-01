@@ -10,7 +10,7 @@ make filter
 ```
 ./filter [flag] infile outfile
 ```
-### Flags used:
+### Flags accepted:
 - **b:** Adds blur filter
 - **g:** Adds greyscale filter
 - **r:** Adds reflection filter
